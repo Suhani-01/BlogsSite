@@ -1,6 +1,6 @@
 # ScriptNest Blogs 📰
 
-**Welcome to ScriptNest Blogs** — a clean, modern tech blog UI built with HTML, CSS, and JavaScript.
+**Welcome to ScriptNest Blogs** — a clean, modern tech blog UI built with HTML and CSS.
 
 📌 **Live Site:** [Visit Here](https://suhani-01.github.io/BlogsSite/)
 
